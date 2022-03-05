@@ -96,7 +96,6 @@
 		04EBF4E627C8F0FD00A2F75B /* OrderPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderPresenter.swift; sourceTree = "<group>"; };
 		04EBF4E927C8F11A00A2F75B /* MenuItemPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemPresenter.swift; sourceTree = "<group>"; };
 		04EBF4ED27C8F15200A2F75B /* ItemDetailsPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailsPresenter.swift; sourceTree = "<group>"; };
-		1550AB2D27D340BA0064B60C /* MenuItemsPresenterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemsPresenterTest.swift; sourceTree = "<group>"; };
 		1550AB2F27D350020064B60C /* MenuItems.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = MenuItems.json; sourceTree = "<group>"; };
 		1550AB3427D356DE0064B60C /* MockMenuItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockMenuItemsView.swift; sourceTree = "<group>"; };
 		2B8FB1BB27D366B500D67991 /* OrderPresenterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderPresenterTest.swift; sourceTree = "<group>"; };

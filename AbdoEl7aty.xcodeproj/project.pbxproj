@@ -43,7 +43,6 @@
 		1550AB2E27D340BA0064B60C /* MenuItemsPresenterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1550AB2D27D340BA0064B60C /* MenuItemsPresenterTest.swift */; };
 		1550AB3027D350020064B60C /* MenuItems.json in Resources */ = {isa = PBXBuildFile; fileRef = 1550AB2F27D350020064B60C /* MenuItems.json */; };
 		1550AB3527D356DE0064B60C /* MockMenuItemsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1550AB3427D356DE0064B60C /* MockMenuItemsView.swift */; };
-		1550AB3727D3EF4A0064B60C /* MenuItemsViewControllerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1550AB3627D3EF4A0064B60C /* MenuItemsViewControllerTest.swift */; };
 		2B8FB1BC27D366B500D67991 /* OrderPresenterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B8FB1BB27D366B500D67991 /* OrderPresenterTest.swift */; };
 		2B8FB1BE27D368C700D67991 /* OrderResponse.json in Resources */ = {isa = PBXBuildFile; fileRef = 2B8FB1BD27D368C700D67991 /* OrderResponse.json */; };
 		2B8FB1C027D36BF800D67991 /* MockOrderModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B8FB1BF27D36BF800D67991 /* MockOrderModel.swift */; };
@@ -101,7 +100,6 @@
 		1550AB2D27D340BA0064B60C /* MenuItemsPresenterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemsPresenterTest.swift; sourceTree = "<group>"; };
 		1550AB2F27D350020064B60C /* MenuItems.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = MenuItems.json; sourceTree = "<group>"; };
 		1550AB3427D356DE0064B60C /* MockMenuItemsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockMenuItemsView.swift; sourceTree = "<group>"; };
-		1550AB3627D3EF4A0064B60C /* MenuItemsViewControllerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItemsViewControllerTest.swift; sourceTree = "<group>"; };
 		2B8FB1BB27D366B500D67991 /* OrderPresenterTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderPresenterTest.swift; sourceTree = "<group>"; };
 		2B8FB1BD27D368C700D67991 /* OrderResponse.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = OrderResponse.json; sourceTree = "<group>"; };
 		2B8FB1BF27D36BF800D67991 /* MockOrderModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockOrderModel.swift; sourceTree = "<group>"; };

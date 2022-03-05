@@ -159,8 +159,6 @@
 		04A7956627D241F7002D30AD /* Category */ = {
 			isa = PBXGroup;
 			children = (
-				1550AB3627D3EF4A0064B60C /* MenuItemsViewControllerTest.swift */,
-				1550AB2D27D340BA0064B60C /* MenuItemsPresenterTest.swift */,
 				04A7956727D24221002D30AD /* CategoryPresenterTest.swift */,
 				04A7956927D24240002D30AD /* CategoryViewControllerTest.swift */,
 			);
